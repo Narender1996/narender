@@ -1,8 +1,4 @@
-i m narender 
- nREJN JEHU BS  BS,JJBYCBD
-
-  CHCYBC
-   CDHCYBC
-    HCBDCBS
-     NCUEWUC 
-     
+console.log("hello world")
+console.log("yyfdvyg")
+console.log("gcbcch")
+console.log("gyf")
